@@ -1,0 +1,6 @@
+channels:
+  feishu:
+    bot:
+      webhook_url: https://open.feishu.cn/open-apis/bot/v2/hook/38a59df0-67aa-4e39-af6e-c5b2467d8bec
+      enabled: true
+      name: Kimi助手

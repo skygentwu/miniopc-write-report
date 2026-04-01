@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "ima-all-ai": {
+      "name": "IMA Studio All-in-One — Image, Video, Music, SeeDream, Veo, Suno. Banana",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=ima-all-ai",
+      "source": "skillhub",
+      "version": "1.0.10"
+    }
+  }
+}

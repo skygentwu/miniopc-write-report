@@ -1,0 +1,17 @@
+# Feishu Bot Webhook Configuration
+# Created: 2026-03-09
+# Status: Pending Gateway Configuration
+
+## Webhook URL
+FULL_URL=https://open.feishu.cn/open-apis/bot/v2/hook/38a59df0-67aa-4e39-af6e-c5b2467d8bec
+
+## Bot Name
+NAME=Kimi助手
+
+## Configuration Instructions
+# This webhook needs to be configured in OpenClaw Gateway to enable bot responses
+# See gateway config file: /root/.openclaw/gateway/config.yml
+
+## Security Note
+# This webhook allows sending messages to the Feishu group
+# Keep this file secure and do not share publicly
